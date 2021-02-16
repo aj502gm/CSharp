@@ -1,0 +1,10 @@
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\bin\Debug\HF.exe.config
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\bin\Debug\HF.exe
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\bin\Debug\HF.pdb
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.csprojAssemblyReference.cache
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.Form1.resources
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.Properties.Resources.resources
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.csproj.GenerateResource.cache
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.exe
+C:\Users\Andres\Documents\Archivos 2019\Computacion\HF\HF\obj\Debug\HF.pdb
