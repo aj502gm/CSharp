@@ -1,0 +1,13 @@
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.exe
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.deps.json
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.runtimeconfig.json
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.runtimeconfig.dev.json
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.dll
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\bin\Debug\netcoreapp3.1\BattleShipSimulator.pdb
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.csprojAssemblyReference.cache
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.AssemblyInfoInputs.cache
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.AssemblyInfo.cs
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.dll
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.pdb
+C:\Users\Andres\Documents\Archivos 2020\C#\BattleShipSimulator\BattleShipSimulator\obj\Debug\netcoreapp3.1\BattleShipSimulator.genruntimeconfig.cache
